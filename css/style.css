@@ -1,0 +1,9 @@
+header img {
+  min-width: 250px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+  justify-content: center;
+}
