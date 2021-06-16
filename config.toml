@@ -1,4 +1,4 @@
 baseURL = "https://www.sageandblushco.com/"
 languageCode = "en-us"
-theme = "ga-hugo-theme"
+theme = "sage"
 title = "Sage and Blush Co Salon"
