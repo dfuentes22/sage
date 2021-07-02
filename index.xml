@@ -8,21 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jun 2021 13:23:16 -0400</lastBuildDate><atom:link href="https://www.imdanielfuentes.com/sage/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Team</title>
+      <link>https://www.imdanielfuentes.com/sage/team/</link>
+      <pubDate>Thu, 01 Jul 2021 17:18:07 -0400</pubDate>
+      
+      <guid>https://www.imdanielfuentes.com/sage/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>B</title>
       <link>https://www.imdanielfuentes.com/sage/dir1/b/</link>
       <pubDate>Wed, 16 Jun 2021 13:23:16 -0400</pubDate>
       
       <guid>https://www.imdanielfuentes.com/sage/dir1/b/</guid>
       <description>Thi is dir1/b.md</description>
-    </item>
-    
-    <item>
-      <title>A</title>
-      <link>https://www.imdanielfuentes.com/sage/a/</link>
-      <pubDate>Wed, 16 Jun 2021 13:20:32 -0400</pubDate>
-      
-      <guid>https://www.imdanielfuentes.com/sage/a/</guid>
-      <description>This is a.mdds</description>
     </item>
     
   </channel>
