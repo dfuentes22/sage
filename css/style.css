@@ -46,3 +46,23 @@ header img {
 .card {
   border: none;
 }
+
+/* Team */
+
+.team .card {
+  align-items: center;
+}
+
+.team .card-img,
+.card-img-bottom,
+.card-img-top {
+  max-width: 250px;
+}
+
+.team .card-title {
+  text-align: center;
+}
+
+.team .card-body {
+  text-align: justify;
+}
