@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sage and Blush Co Salon</title>
-    <link>sageandblushco.com/</link>
+    <link>https://sageandblushco.com/</link>
     <description>Recent content on Sage and Blush Co Salon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jun 2021 13:23:16 -0400</lastBuildDate><atom:link href="sageandblushco.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 13:23:16 -0400</lastBuildDate><atom:link href="https://sageandblushco.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>sageandblushco.com/contact/</link>
+      <link>https://sageandblushco.com/contact/</link>
       <pubDate>Tue, 20 Jul 2021 20:58:52 -0400</pubDate>
       
-      <guid>sageandblushco.com/contact/</guid>
+      <guid>https://sageandblushco.com/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Services</title>
-      <link>sageandblushco.com/services/</link>
+      <link>https://sageandblushco.com/services/</link>
       <pubDate>Tue, 20 Jul 2021 19:24:08 -0400</pubDate>
       
-      <guid>sageandblushco.com/services/</guid>
+      <guid>https://sageandblushco.com/services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Team</title>
-      <link>sageandblushco.com/team/</link>
+      <link>https://sageandblushco.com/team/</link>
       <pubDate>Thu, 01 Jul 2021 17:18:07 -0400</pubDate>
       
-      <guid>sageandblushco.com/team/</guid>
+      <guid>https://sageandblushco.com/team/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B</title>
-      <link>sageandblushco.com/dir1/b/</link>
+      <link>https://sageandblushco.com/dir1/b/</link>
       <pubDate>Wed, 16 Jun 2021 13:23:16 -0400</pubDate>
       
-      <guid>sageandblushco.com/dir1/b/</guid>
+      <guid>https://sageandblushco.com/dir1/b/</guid>
       <description>Thi is dir1/b.md</description>
     </item>
     
