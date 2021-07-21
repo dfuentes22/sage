@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sage and Blush Co Salon</title>
-    <link>https://www.imdanielfuentes.com/sage/</link>
+    <link>sageandblushco.com/</link>
     <description>Recent content on Sage and Blush Co Salon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jun 2021 13:23:16 -0400</lastBuildDate><atom:link href="https://www.imdanielfuentes.com/sage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 13:23:16 -0400</lastBuildDate><atom:link href="sageandblushco.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://www.imdanielfuentes.com/sage/contact/</link>
+      <link>sageandblushco.com/contact/</link>
       <pubDate>Tue, 20 Jul 2021 20:58:52 -0400</pubDate>
       
-      <guid>https://www.imdanielfuentes.com/sage/contact/</guid>
+      <guid>sageandblushco.com/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Services</title>
-      <link>https://www.imdanielfuentes.com/sage/services/</link>
+      <link>sageandblushco.com/services/</link>
       <pubDate>Tue, 20 Jul 2021 19:24:08 -0400</pubDate>
       
-      <guid>https://www.imdanielfuentes.com/sage/services/</guid>
+      <guid>sageandblushco.com/services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Team</title>
-      <link>https://www.imdanielfuentes.com/sage/team/</link>
+      <link>sageandblushco.com/team/</link>
       <pubDate>Thu, 01 Jul 2021 17:18:07 -0400</pubDate>
       
-      <guid>https://www.imdanielfuentes.com/sage/team/</guid>
+      <guid>sageandblushco.com/team/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B</title>
-      <link>https://www.imdanielfuentes.com/sage/dir1/b/</link>
+      <link>sageandblushco.com/dir1/b/</link>
       <pubDate>Wed, 16 Jun 2021 13:23:16 -0400</pubDate>
       
-      <guid>https://www.imdanielfuentes.com/sage/dir1/b/</guid>
+      <guid>sageandblushco.com/dir1/b/</guid>
       <description>Thi is dir1/b.md</description>
     </item>
     
