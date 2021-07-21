@@ -53,6 +53,11 @@ header img {
   border: none;
 }
 
+.service-card-img {
+  width: 100%;
+  max-width: 150px;
+}
+
 /* Team */
 
 .team .card {
