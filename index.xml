@@ -5,8 +5,7 @@
     <link>https://sageandblushco.com/</link>
     <description>Recent content on Sage and Blush Co Salon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jun 2021 13:23:16 -0400</lastBuildDate><atom:link href="https://sageandblushco.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sageandblushco.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://sageandblushco.com/contact/</link>
@@ -32,15 +31,6 @@
       
       <guid>https://sageandblushco.com/team/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>B</title>
-      <link>https://sageandblushco.com/dir1/b/</link>
-      <pubDate>Wed, 16 Jun 2021 13:23:16 -0400</pubDate>
-      
-      <guid>https://sageandblushco.com/dir1/b/</guid>
-      <description>Thi is dir1/b.md</description>
     </item>
     
   </channel>
