@@ -88,3 +88,7 @@ header img {
 .team .card-body {
   text-align: justify;
 }
+
+.team .card-body .card-text {
+  padding: 0px 30px;
+}
